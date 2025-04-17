@@ -2,9 +2,10 @@
 微信发布记录数据采集，用于数据统计。
 
 ## 安装
+``` bash
 pip install -r requirements
 playwright install
-
+```
 ## 运行步骤
 - python test.py
 - 登录、扫描二维码
